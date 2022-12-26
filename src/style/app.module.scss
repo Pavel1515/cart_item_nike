@@ -167,8 +167,8 @@
       .href {
         display: flex;
         flex-direction: column;
-        justify-content: end;
-        align-items: end;
+        justify-content: flex-end;
+        align-items: flex-end;
         margin-top: 100px;
         a {
           margin-top: 20px;
